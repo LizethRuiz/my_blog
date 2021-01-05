@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/my_blog/static/css/main.f18c9d5b.chunk.css",
-    "main.js": "/my_blog/static/js/main.61d247da.chunk.js",
-    "main.js.map": "/my_blog/static/js/main.61d247da.chunk.js.map",
+    "main.js": "/my_blog/static/js/main.01d8b506.chunk.js",
+    "main.js.map": "/my_blog/static/js/main.01d8b506.chunk.js.map",
     "runtime-main.js": "/my_blog/static/js/runtime-main.39b72933.js",
     "runtime-main.js.map": "/my_blog/static/js/runtime-main.39b72933.js.map",
     "static/js/2.f89764fd.chunk.js": "/my_blog/static/js/2.f89764fd.chunk.js",
     "static/js/2.f89764fd.chunk.js.map": "/my_blog/static/js/2.f89764fd.chunk.js.map",
     "index.html": "/my_blog/index.html",
-    "precache-manifest.eac7fac24f0f4ce5b07aa5312a7de66a.js": "/my_blog/precache-manifest.eac7fac24f0f4ce5b07aa5312a7de66a.js",
+    "precache-manifest.b5b2a53fc9e1a6b1f7b4ed4272b38a5e.js": "/my_blog/precache-manifest.b5b2a53fc9e1a6b1f7b4ed4272b38a5e.js",
     "service-worker.js": "/my_blog/service-worker.js",
     "static/css/main.f18c9d5b.chunk.css.map": "/my_blog/static/css/main.f18c9d5b.chunk.css.map",
     "static/js/2.f89764fd.chunk.js.LICENSE.txt": "/my_blog/static/js/2.f89764fd.chunk.js.LICENSE.txt",
     "static/media/abc.png": "/my_blog/static/media/abc.fe5e79bb.png",
     "static/media/age.png": "/my_blog/static/media/age.bcc35821.png",
+    "static/media/code.png": "/my_blog/static/media/code.e8972a9a.png",
+    "static/media/compu.png": "/my_blog/static/media/compu.36c5b8d1.png",
     "static/media/style.scss": "/my_blog/static/media/illustration-section-02.63d0555d.svg",
-    "static/media/features-split-image-01.png": "/my_blog/static/media/features-split-image-01.d9cb99ce.png",
-    "static/media/features-split-image-02.png": "/my_blog/static/media/features-split-image-02.3c569239.png",
-    "static/media/features-split-image-03.png": "/my_blog/static/media/features-split-image-03.87e4d053.png",
     "static/media/female3.png": "/my_blog/static/media/female3.fe31876e.png",
     "static/media/lizeth.jpeg": "/my_blog/static/media/lizeth.0d2c3684.jpeg",
     "static/media/mama.jpeg": "/my_blog/static/media/mama.c3d07a0c.jpeg",
@@ -30,6 +29,6 @@
     "static/js/runtime-main.39b72933.js",
     "static/js/2.f89764fd.chunk.js",
     "static/css/main.f18c9d5b.chunk.css",
-    "static/js/main.61d247da.chunk.js"
+    "static/js/main.01d8b506.chunk.js"
   ]
 }
